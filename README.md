@@ -1,0 +1,2 @@
+# hello-git
+Learning git.
